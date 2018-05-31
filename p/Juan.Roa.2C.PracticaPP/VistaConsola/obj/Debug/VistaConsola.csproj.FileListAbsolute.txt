@@ -1,0 +1,16 @@
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\i\Desktop\Practica_Primer_Parcial_POO\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\pablo\Downloads\ivan\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\i\Desktop\p\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\i\Desktop\p\Juan.Roa.2C.PracticaPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\i\Desktop\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\i\Desktop\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\i\Desktop\p\Juan.Roa.2C.PracticaPP\Entidades\obj\Debug\Entidades.pdb
